@@ -2,7 +2,6 @@
 
 7 Day Forecast Weather App created using Apple Swift UI and OpenWeather API
 
-
-![Image 05-08-2022 at 13 47](https://user-images.githubusercontent.com/66962321/183083924-802b1482-cd54-400b-a97f-eeea36df9b49.jpeg)
-![Image 05-08-2022 at 13 58](https://user-images.githubusercontent.com/66962321/183083937-f856a9ce-43a3-497c-b940-ec0ad8cfdadc.jpeg)
-![Image 05-08-2022 at 14 00](https://user-images.githubusercontent.com/66962321/183083943-4f552352-e2c5-466d-aebd-8d3226e5ddc4.jpeg)
+![Image 05-08-2022 at 13 47](https://user-images.githubusercontent.com/66962321/183084161-2c5b01af-aa0a-4fb5-82b0-7e6709f53e0e.jpeg)
+![Image 05-08-2022 at 13 58](https://user-images.githubusercontent.com/66962321/183084165-c83316d1-70f7-41d1-869f-0f871d07f1ae.jpeg)
+![Image 05-08-2022 at 14 00](https://user-images.githubusercontent.com/66962321/183084167-a2fdfae2-d735-44fc-98b0-7cfffdd623a7.jpeg)
